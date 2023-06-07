@@ -1,0 +1,199 @@
+.paragraph{
+    position: absolute;
+    top: 10px;
+    left: 250px;
+    color:skyblue;
+    border-bottom: 2px solid skyblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+.logo{
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        border-radius: 5px;
+}
+
+.Home{
+    position: absolute;
+    top: 100px;
+    left: 20px;
+    width: 100x;
+    height: 60px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px;
+    border-radius: 10px;
+    background-color:skyblue;
+    color:thistle;
+    border: 2px solid wheat;
+}
+.Service{
+    position: absolute;
+    top: 200px;
+    left: 20px;
+    width: 100x;
+    height: 60px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px;
+    border-radius: 10px;
+    background-color:skyblue;
+    color:thistle;
+    border: 2px solid wheat;
+}
+.AboutUs{
+    position: absolute;
+    top: 300px;
+    left: 20px;
+    width: 100x;
+    height: 60px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px;
+    border-radius: 10px;
+    background-color:skyblue;
+    color:thistle;
+    border: 2px solid wheat;
+}
+.BranchInformation{
+    position: absolute;
+    top: 400px;
+    left: 20px;
+    width: 100x;
+    height: 60px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px;
+    border-radius: 10px;
+    background-color:skyblue;
+    color:thistle;
+    border: 2px solid wheat;
+}
+.LogIn{
+    position: absolute;
+    top: 500px;
+    left: 20px;
+    width: 100x;
+    height: 60px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px;
+    border-radius: 10px;
+    background-color:skyblue;
+    color:thistle;
+    border: 2px solid wheat;
+}
+.LogOut{
+    position: absolute;
+    top: 600px;
+    left: 20px;
+    width: 100x;
+    height: 60px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px;
+    border-radius: 10px;
+    background-color:skyblue;
+    color:thistle;
+    border: 2px solid wheat;
+}
+a{
+    text-decoration: none;
+}
+.car{
+    position: absolute;
+    top: 200px;
+    left: 250px;
+    width:450px;
+    height:400px;
+    border-radius: 5px;  
+}
+.motor2{
+    position: absolute;
+    top: 200px;
+    left: 740px;
+    width:400px;
+    height:400px;
+    border-radius: 5px; 
+}
+.motor1{
+    position: absolute;
+    top: 610px;
+    left: 250px;
+    width:450px;
+    height:400px;
+    border-radius: 5px; 
+}
+.motor3{
+    position: absolute;
+    top: 610px;
+    left: 740px;
+    width:400px;
+    height:400px;
+    border-radius: 5px; 
+}
+.fire1{
+    position: absolute;
+    top: 1130px;
+    left: 20px;
+    width:350px;
+    height:350px;
+    border-radius: 5px; 
+}
+.fire2{
+    position: absolute;
+    top: 1130px;
+    left: 400px;
+    width:350px;
+    height:350px;
+    border-radius: 5px; 
+}
+.fire3{
+    position: absolute;
+    top: 1130px;
+    left: 790px;
+    width:350px;
+    height:350px;
+    border-radius: 5px; 
+}
+.fire4{
+    position: absolute;
+    top: 1490px;
+    left: 20px;
+    width:1120px;
+    height:450px;
+    border-radius: 5px; 
+}
+.accident1{
+    position: absolute;
+    top: 2070px;
+    left: 20px;
+    width:555px;
+    height:450px;
+    border-radius: 5px; 
+}
+.accident2{
+    position: absolute;
+    top: 2070px;
+    left: 590px;
+    width:555px;
+    height:450px;
+    border-radius: 5px; 
+}
+.consruction{
+    position: absolute;
+    top: 2650px;
+    left: 20px;
+    width:1120px;
+    height:450px;
+    border-radius: 5px; 
+}
+.angri{
+    position: absolute;
+    top: 3230px;
+    left: 20px;
+    width:1120px;
+    height:450px;
+    border-radius: 5px; 
+}
